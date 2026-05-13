@@ -3,7 +3,7 @@
 **Course Notes for EE 6513 — University of New Brunswick**
 
 *Kevin Englehart, PhD, PEng · Faculty of Engineering · Fredericton, NB*
-
+© 2026 Kevin Englehart, PhD, PEng. This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 ---
 
 ## Overview
